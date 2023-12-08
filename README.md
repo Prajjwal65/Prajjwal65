@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrajjwalChauhan
-- 👀 I’m interested in Embedded programing
+- 👀 I’m interested in Cloud computing.
 - 🌱 I’m currently learning Embedded hardware designing and cloud computing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me,contact on prajjwalrajput65@gmail.com or whatsapp me 7055030339
